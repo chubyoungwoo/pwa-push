@@ -12,7 +12,7 @@
 경로에 가서 설정을 추가한다.
 c:\Program Files\Java\jdk1.8.0_162\jre\lib\security\java.security
 설치된 자바 경로에 가서 관리자 권한으로 java.security 파일을 열어서 security 관련 설정을 추가한다.
-security.provider.11=org.bouncycastle.jce.provider.BouncyCastleProvider <= 이부분 추가한다.
+security.provider.11=org.bouncycastle.jce.provider.BouncyCastleProvider <= 이부분 추가.
 ```
   
 ### 브라우저 알림전송 확인
